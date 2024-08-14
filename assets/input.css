@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Matemasie';
+    src: url(/assets/font/IBM_Plex_Sans/Matemasie-Regular.ttf);
+}
+body{
+    font-family: "Matemasie",sans-serif;
+
+}
+.full-screen{
+    height: 100vh;
+}
+.hero{
+    background-image: url('/assets/image/Turkey-Cake_EXPS_FT21_259626_F_0618_1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
