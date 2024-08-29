@@ -20,10 +20,6 @@
 ##Sitemap
 ```mermaid
 graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
 
-A(Home) --> B(Product) --> 
+A(Home) --> B(Product)
 A --> C(About)
