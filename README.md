@@ -1,3 +1,29 @@
-# webcake-Sanhanat
+#Website Cake 
+>เว็บนี้ศึกษาอัปเดทgithun นะจ้ะ
 
-เว็บเกย์ๆๆของห้องเกย์ๆๆ ที่มีแต่พวกเกย์ในห้อง
+##Overview
+>เว็ปไซต์นี้เป็นสำหรับซื้อเค้กแบบออนไลน์
+
+##Contents
+-Home page
+หน้าแรกที่ผู้ใช้งานจะเข้ามาพบก่อนทุกครั้งที่เข้าเว็ปไซต์
+-Product page
+หน้าสินค้า
+-About page
+หน้าเกี่ยวกับเว็ปไซต์และผู้จัดทำเว็ป
+
+##Member
+
+ 1. นายสัณหณัฐ เจริญผล 
+
+
+##Sitemap
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+
+A(Home) --> B(Product) --> 
+A --> C(About)
